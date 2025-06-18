@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safuramariyam
 - 👀 I’m interested in coding , exploring new languages.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on small projects
   
 
